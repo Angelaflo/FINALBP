@@ -1,0 +1,208 @@
+.rowsky{
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.6em;
+  letter-spacing: 2em;
+  
+  width: 100vw;
+  height: 30vh;
+   margin: 3px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+     background: #000000;
+  color: #FFFFFF;
+}
+
+
+ 
+.rowground {font-family: 'Raleway', sans-serif;
+  font-size: 1.6em;
+  letter-spacing: 2em;
+  
+  width: 100vw;
+  height: 30vh;
+   margin: 3px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #FFFFFF;
+  background:  #FFCFE7;
+}
+
+.bp{
+    width: 100vw;
+  height: 67vh;
+     
+}
+
+img:hover {
+	opacity: 0.8;}
+
+.rowone {
+    width: 100vw;
+  height: 85vh;
+   margin: 3px;
+  display: flex;   
+}
+
+.box1{
+  background: #FFCFE7;
+  width: 50vw;
+    height: 85vh;  
+    content:url("jennie.png")
+}	
+	
+.box2{
+  background: #000000;
+  width: 50vw;
+    height: 85vh;  
+    content: url(cover2.png)
+}	
+
+.tubby{
+    max-width: 30%;
+    max-height: 70%;
+    content: url(jenk.gif);  
+    
+}
+
+.tubby2{
+     max-width: 100%;
+    max-height: 70%;
+    content: url(whistlew.gif); 
+    
+}
+
+.rowtwo {
+    width: 100vw;
+  height: 85vh;
+   margin: 3px;
+  display: flex;   
+}
+
+.box3{
+  background: #000000;
+  width: 50vw;
+    height: 85vh;  
+    content: url(rosee.png)
+}	
+
+.box4{
+  background: #000000;
+  width: 50vw;
+    height: 85vh;  
+    content: url(cover2.png)
+}	
+
+.tubby3{
+    max-width: 30%;
+    max-height: 80%;
+    content: url(rosepwf.gif); 
+    
+}
+
+.tubby4{
+    max-width: 100%;
+    max-height: 50%;
+    content: url(PWF.gif); 
+    
+}
+
+.rowthree {
+    width: 100vw;
+  height: 85vh;
+   margin: 3px;
+  display: flex;   
+}
+
+
+.box5{
+  background: #000000;
+  width: 50vw;
+    height: 85vh;  
+    content: url(jisss.png)
+}	
+
+.tubby5 {
+    max-width: 90%;
+    max-height: 90%;
+    content: url(jisso.gif);     
+}
+
+.box6{
+  background: #000000;
+  width: 50vw;
+    height: 85vh;  
+    content: url(cover2.png)
+}	
+
+.tubby6 {
+    max-width: 80%;
+    max-height: 50%;
+    content: url(boomb.gif);     
+}
+
+.rowfour {
+    width: 100vw;
+  height: 85vh;
+   margin: 3px;
+  display: flex;   
+}
+
+.box7{
+    background: #000000;
+  width: 50vw;
+    height: 85vh;  
+    content: url(lisa.png)
+}
+
+.box8 {background: #000000;
+  width: 50vw;
+    height: 85vh;  
+    content: url(cover2.png) 
+} 
+
+.tubby7{
+     max-width: 100%;
+    max-height: 80%;
+    content: url(lissa.gif);    
+}
+
+.tubby8{
+     max-width: 90%;
+    max-height: 80%;
+    content: url(AIYLL.gif);    
+}
+
+.rowzero {
+     width: 100vw;
+  height: 10vh;
+   margin: 3px;
+  display: flex;  
+    
+}
+
+.box0{
+    width: 50vw;
+    height: 10vh;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+  font-size: 1.6em;
+  letter-spacing: 2em;
+    background: #000000;
+    margin: 3px;
+}
+
+.box00{
+   width: 50vw;
+    height: 10vh;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+  font-size: 1.6em;
+  letter-spacing: 2em; 
+    background:  #FFCFE7;
+    margin: 3px;
+    
+}
